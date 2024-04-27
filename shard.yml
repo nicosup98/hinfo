@@ -1,0 +1,29 @@
+name: sandbox
+version: 0.1.0
+
+dependencies:
+  clim:
+    github: at-grandpa/clim
+    version: 0.17.1
+
+  hardware:
+    github: crystal-community/hardware
+    
+  climate:
+    github: Sija/climate.cr
+# authors:
+#   - name <email@example.com>
+
+# description: |
+#   Short description of sandbox
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
